@@ -91,7 +91,7 @@ const ContactPage = () => {
       {/* Hero Section */}
       <div className="bg-green-400 from-emerald-600 to-emerald-800 text-white py-12 sm:py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <MapPin className="mx-auto mb-4 h-14 w-14 sm:h-16 sm:w-16 text-emerald-200" />
+          <MapPin className="mx-auto mb-4 h-14 w-14 sm:h-16 sm:w-16 text-emerald-200 mt-12" />
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-semibold mb-4">
             Hubungi Desa Talawe
           </h1>

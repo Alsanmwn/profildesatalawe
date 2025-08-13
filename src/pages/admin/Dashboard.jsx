@@ -250,10 +250,6 @@ const Dashboard = () => {
                 <RefreshCw size={16} className={loading ? 'animate-spin' : ''} />
                 Refresh
               </button>
-              <button className="flex items-center justify-center gap-2 px-4 py-2 bg-[#42A91C] text-white rounded-lg hover:bg-green-600 transition-colors duration-200 text-sm">
-                <BarChart3 size={16} />
-                Laporan
-              </button>
             </div>
           </div>
         </div>
